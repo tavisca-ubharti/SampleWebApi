@@ -1,0 +1,14 @@
+C:\Users\ubharti\source\repos\SampleWebApi\bin\Debug\netcoreapp2.2\SampleWebApi.deps.json
+C:\Users\ubharti\source\repos\SampleWebApi\bin\Debug\netcoreapp2.2\SampleWebApi.runtimeconfig.json
+C:\Users\ubharti\source\repos\SampleWebApi\bin\Debug\netcoreapp2.2\SampleWebApi.runtimeconfig.dev.json
+C:\Users\ubharti\source\repos\SampleWebApi\bin\Debug\netcoreapp2.2\SampleWebApi.dll
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.csprojAssemblyReference.cache
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.RazorAssemblyInfo.cache
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.RazorAssemblyInfo.cs
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.AssemblyInfoInputs.cache
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.AssemblyInfo.cs
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ubharti\source\repos\SampleWebApi\bin\Debug\netcoreapp2.2\SampleWebApi.pdb
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.dll
+C:\Users\ubharti\source\repos\SampleWebApi\obj\Debug\netcoreapp2.2\SampleWebApi.pdb
